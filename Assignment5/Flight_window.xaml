@@ -1,0 +1,26 @@
+﻿<Window x:Class="ControlTower.Flight_window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlTower"
+        mc:Ignorable="d"
+        Title="Flight_window" Height="411.978" Width="595.209" ResizeMode="NoResize" Closing="FlightWindowClosing">
+
+    <Grid x:Name="Flight_form" Margin="0,0,3,0">
+        <Grid.ColumnDefinitions>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="Image_fpl" HorizontalAlignment="Left" Height="300" Margin="6,0,0,0" VerticalAlignment="Top" Width="574" Grid.ColumnSpan="2"/>
+        <Button x:Name="BtnStart" Content="Start" HorizontalAlignment="Left" Margin="74,317,0,0" VerticalAlignment="Top" Width="119" Height="47" FontSize="20" FontWeight="Normal" RenderTransformOrigin="0.52,-1.864" Click="BtnStartClick"/>
+        <Button x:Name="Btn_Land" Content="Land" HorizontalAlignment="Left" Margin="416,316,0,0" Width="117" FontSize="20" FontWeight="Normal" RenderTransformOrigin="0.075,-1.954" Height="48" VerticalAlignment="Top" Click="BtnLandClick"/>
+        <ComboBox x:Name="Combo_Headings" HorizontalAlignment="Center" Margin="0,332,0,0" VerticalAlignment="Top" Width="171" Height="28" RenderTransformOrigin="0.521,1.066" SelectionChanged="ComboHeadingChanged" AutomationProperties.Name="" Text="Change Route" IsEditable="True" BorderBrush="#FFC1C1C1">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#FFF0F0F0"/>
+                    <GradientStop Color="#FFF3F1F1" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+
+    </Grid>
+</Window>
