@@ -1,0 +1,58 @@
+C:\Users\ngard\source\repos\Animal_Park\bin\Debug\Animal_Park.exe.config
+C:\Users\ngard\source\repos\Animal_Park\bin\Debug\Animal_Park.exe
+C:\Users\ngard\source\repos\Animal_Park\bin\Debug\Animal_Park.pdb
+C:\Users\ngard\source\repos\Animal_Park\obj\Debug\Animal_Park.csprojAssemblyReference.cache
+C:\Users\ngard\source\repos\Animal_Park\obj\Debug\Animal_Park.Form1.resources
+C:\Users\ngard\source\repos\Animal_Park\obj\Debug\Animal_Park.Properties.Resources.resources
+C:\Users\ngard\source\repos\Animal_Park\obj\Debug\Animal_Park.csproj.GenerateResource.cache
+C:\Users\ngard\source\repos\Animal_Park\obj\Debug\Animal_Park.csproj.CoreCompileInputs.cache
+C:\Users\ngard\source\repos\Animal_Park\obj\Debug\Animal_Park.exe
+C:\Users\ngard\source\repos\Animal_Park\obj\Debug\Animal_Park.pdb
+C:\Users\ngard\source\repos\Animal_Park\obj\Debug\Animal_Park.Form_Add_Food.resources
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\bin\Debug\Animal_Park.exe.config
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\bin\Debug\Animal_Park.exe
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\bin\Debug\Animal_Park.pdb
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\obj\Debug\Animal_Park.csproj.AssemblyReference.cache
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\obj\Debug\Animal_Park.csproj.SuggestedBindingRedirects.cache
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\obj\Debug\Animal_Park.Form1.resources
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\obj\Debug\Animal_Park.Form_Add_Food.resources
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\obj\Debug\Animal_Park.Properties.Resources.resources
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\obj\Debug\Animal_Park.csproj.GenerateResource.cache
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\obj\Debug\Animal_Park.csproj.CoreCompileInputs.cache
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\obj\Debug\Animal_Park.exe
+\\192.168.0.113\Program\C# Farid\Programering\Animal_Park_Lab4-main\Animal_Park_uppgift_4\obj\Debug\Animal_Park.pdb
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\bin\Debug\Animal_Park.exe.config
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\bin\Debug\Animal_Park.exe
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\bin\Debug\Animal_Park.pdb
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\obj\Debug\Animal_Park.csproj.AssemblyReference.cache
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\obj\Debug\Animal_Park.csproj.SuggestedBindingRedirects.cache
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\obj\Debug\Animal_Park.Form1.resources
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\obj\Debug\Animal_Park.Form_Add_Food.resources
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\obj\Debug\Animal_Park.Properties.Resources.resources
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\obj\Debug\Animal_Park.csproj.GenerateResource.cache
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\obj\Debug\Animal_Park.csproj.CoreCompileInputs.cache
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\obj\Debug\Animal_Park.exe
+C:\Users\0000\Desktop\Assignment-4\Assignment-4\obj\Debug\Animal_Park.pdb
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\bin\Debug\Animal_Park.exe.config
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\bin\Debug\Animal_Park.exe
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\bin\Debug\Animal_Park.pdb
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.csproj.AssemblyReference.cache
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.csproj.SuggestedBindingRedirects.cache
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.Form1.resources
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.Form_Add_Food.resources
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.Properties.Resources.resources
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.csproj.GenerateResource.cache
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.csproj.CoreCompileInputs.cache
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.exe
+C:\Users\0000\Desktop\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.pdb
+\\192.168.0.113\Program\C# Farid\Programering\Uppgift1\Assignment1-4\Assignment1-4\bin\Debug\Animal_Park.exe.config
+\\192.168.0.113\Program\C# Farid\Programering\Uppgift1\Assignment1-4\Assignment1-4\bin\Debug\Animal_Park.exe
+\\192.168.0.113\Program\C# Farid\Programering\Uppgift1\Assignment1-4\Assignment1-4\bin\Debug\Animal_Park.pdb
+\\192.168.0.113\Program\C# Farid\Programering\Uppgift1\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.csproj.AssemblyReference.cache
+\\192.168.0.113\Program\C# Farid\Programering\Uppgift1\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.csproj.SuggestedBindingRedirects.cache
+\\192.168.0.113\Program\C# Farid\Programering\Uppgift1\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.Form1.resources
+\\192.168.0.113\Program\C# Farid\Programering\Uppgift1\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.Properties.Resources.resources
+\\192.168.0.113\Program\C# Farid\Programering\Uppgift1\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.csproj.GenerateResource.cache
+\\192.168.0.113\Program\C# Farid\Programering\Uppgift1\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.csproj.CoreCompileInputs.cache
+\\192.168.0.113\Program\C# Farid\Programering\Uppgift1\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.exe
+\\192.168.0.113\Program\C# Farid\Programering\Uppgift1\Assignment1-4\Assignment1-4\obj\Debug\Animal_Park.pdb

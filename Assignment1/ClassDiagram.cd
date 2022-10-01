@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animal_Park.Bird" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAEBAAEAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Birds\Bird.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Animal_Park.Animal" Collapsed="true">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAEA4ASEAEAAhAwEACEEAAEgAAAIEAAACgA=</HashCode>
+      <FileName>Class_animal\Animal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Animal_Park.Fish" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAEBCAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fishes\Fish.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Animal_Park.Insect" Collapsed="true">
+    <Position X="11.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAEAAAABAAEAAAAAAAAAAAAAAEIAAA=</HashCode>
+      <FileName>Insects\Insect.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Animal_Park.Mammal" Collapsed="true">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAAEAAAAAACAAAAAAAAAAAQ=</HashCode>
+      <FileName>Mammals\Mammal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Animal_Park.Dog" Collapsed="true">
+    <Position X="13" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAAAAEAAAABABEAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Mammals\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal_Park.Cat" Collapsed="true">
+    <Position X="14.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAEEAAABBABEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mammals\Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal_Park.Horse" Collapsed="true">
+    <Position X="16.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAQEAAAEBABEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mammals\Horse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal_Park.Reptile" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAgAAAAAAEAAAABAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reptiles\Reptile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Animal_Park.Snake" Collapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAAAAEAAAABABEAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Reptiles\Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal_Park.Turtle" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAQAAEAEAABABEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reptiles\Turtle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal_Park.Owl" Collapsed="true">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAABABEAAAAAACAAAAAgAAAAAA=</HashCode>
+      <FileName>Birds\Owl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal_Park.Raven" Collapsed="true">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAAAMAAAABABEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Birds\Raven.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal_Park.Butterfly" Collapsed="true">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAAAEAAAABABEAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Insects\Butterfly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal_Park.Ant" Collapsed="true">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAABABEAAAAAAEAAAABAAAAAAA=</HashCode>
+      <FileName>Insects\Ant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal_Park.Shark" Collapsed="true">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAABABEAAAAAACAAAAAgAAAAAA=</HashCode>
+      <FileName>Fishes\Shark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Animal_Park.Salmon" Collapsed="true">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAAAAAAAEAAAABABEAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Fishes\Salmon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
