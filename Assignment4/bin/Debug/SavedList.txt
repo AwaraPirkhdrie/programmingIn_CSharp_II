@@ -1,0 +1,12 @@
+Animal nr :
+ID :  * 0;Name:  * salmon 4;Age:  * 4; Gender:  * Unknown;Category:  * Fish;Weight:  * 4;Behaviour:  * 4;Max speed:  * 4;Max depth:  * 4;Origin:  * 4
+  
+Animal nr :
+ID :  * 1;Name:  * snake 2;Age:  * 2; Gender:  * Female;Category:  * Reptile;Weight:  * 2;Behaviour:  * 2;Number of legs:  * 2;Poison bite :  * True;Snake family:  * 2
+  
+Animal nr :
+ID :  * 2;Name:  * dog 2;Age:  * 2; Gender:  * Male;Category:  * Mammal;Weight:  * 2;Behaviour:  * 2;Tail Length:  * 2;Color :  * 2;Breed:  * 2
+  
+Animal nr :
+ID :  * 3;Name:  * bott 3;Age:  * 3; Gender:  * Male;Category:  * Insect;Weight:  * 3;Behaviour:  * 3;Habitat:  * 3;Number of legs:  * 3;Number of wings :  * 3;Wing beat frequency:  * 3
+  
